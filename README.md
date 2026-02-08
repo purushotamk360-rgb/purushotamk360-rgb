@@ -56,7 +56,7 @@ Adaptable and detail-oriented engineer passionate about building reliable, maint
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-purushotam--kumar--726322224-blue?logo=linkedin)](https://www.linkedin.com/in/purushotam-kumar-726322224/)
 - [![GitHub](https://img.shields.io/badge/GitHub-purushotamk360--rgb-black?logo=github)](https://github.com/purushotamk360-rgb)
 - 📧 Email: [purushotam0043@gmail.com](mailto:purushotam0043@gmail.com)
-- 📍 Patna, Bihar, India
+- 📍 Jodhpur, Rajasthan India
 
 ---
 
