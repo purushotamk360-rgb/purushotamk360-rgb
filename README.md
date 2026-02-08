@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="photo.png" alt="Purushotam Kumar" width="180" height="180" style="border-radius: 50%; object-fit: cover;"/>
+<p align="center">
+  <img src="photo.png" alt="Purushotam Kumar" width="180" style="border-radius: 12px;"/>
 </p>
 
 # 👋 Hi, I'm Purushotam Kumar
