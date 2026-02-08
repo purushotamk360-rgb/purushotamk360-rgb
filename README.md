@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1YX5udi6ojIm_r1bbQmMa9RtWAnjAP8Do" alt="Purushotam Kumar" width="180" style="border-radius: 12px;"/>
+ <img src="photo.png" alt="Purushotam Kumar" width="180" style="border-radius: 12px;"/>
 </p>
 
 # 👋 Hi, I'm Purushotam Kumar
